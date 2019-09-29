@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="main"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="main"/>
+			<item value="square gr"/>
+			<item value="bfs"/>
+			<item value="getEdges"/>
+			<item value="Vertex with edges:"/>
+			<item value="StdOut"/>
+			<item value="object"/>
+			<item value="objec"/>
+			<item value="objectk"/>
+			<item value="prot"/>
+			<item value="protected"/>
+			<item value="element"/>
+			<item value="printTree"/>
+			<item value="print"/>
+			<item value="isEmpty"/>
+		</list>
+		<list key="replacehistory">
+			<item value="System.out"/>
+			<item value="private"/>
+			<item value="compare"/>
+			<item value="key"/>
+			<item value="Linked"/>
+			<item value="linked"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1095"/>
+		<item key="DIALOG_Y_ORIGIN" value="122"/>
+		<item key="DIALOG_WIDTH" value="294"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

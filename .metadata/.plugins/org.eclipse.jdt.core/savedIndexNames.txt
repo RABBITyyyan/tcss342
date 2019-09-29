@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/yan/Documents/TCSS342Workspace/.metadata/.plugins/org.eclipse.jdt.core
+1328546572.index
+1380536060.index
+2665970042.index
+3909539051.index
+1369669076.index
+3090042169.index
+369120867.index
+1045870364.index
+1399524385.index
+1120462906.index
+69060515.index
+1718264556.index
+4284740438.index
+4101033525.index
+3133733449.index
+3985496649.index
+79356765.index
+2955049087.index

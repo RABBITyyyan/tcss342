@@ -1,0 +1,19 @@
+Assignment name: Assignment 1
+TCSS 342: Data Structures, Spring 2019
+
+Name: Chang Yan (Charlotte)
+UWNetID: yanc5
+
+Assignment Overview:
+The purpose of this assignment is to help us to understand the implementation of array, and linked list. This assignment allows us to implement two versions (sorted and unsorted) of array bag, and linked bag. To deal with sorted and unsorted array and linked list, some methods such as insertion is going to be different. This assignment also gives us practice in unit testing and helps us to get familiar with how unit testing validates each unit of the program performs as designed. Unit testing not only increases confidence in changing/ maintaining code, but also makes debugging easier. By doing this assignment, I realized how important unit testing in Java programming is. By using unit testing, I don’t have to go over line by line to find where my code goes wrong. Especially I found unit testing helps me find where algorithms in insertion and deletion are incorrect, so I can fix my bug in a easier way. Most importantly, this assignment helps me figure out how array and linked list build in terms of data structures.
+
+Technical Impression:
+To complete this assignment, I followed the class hierarchy in the description. My ArrayBagUnsorted and ArrayBagSorted class extends AbsractArrayBag class; my LinkedBagUnsorted and LinkedBagSorted class extends AbsractLinkedBag class; my OtherBagUnsorted and OtherBagSorted class extends AbsractOtherBag class. In addition, my AbsractArrayBag, AbsractLinkedBag and AbsractOtherBag all implement the interface MyBag. I think the most challenging part in this assignment is the implementation of the singly linked list. Because we only have one field which is the back node to the linked list, there will be some conor cases to consider. In addition, there is no size field, so we need to create a method that returns the size of the list and use that method to check the size of linked list in other methods. I also have difficulties in the OtherBagUnsorted and OtherBagSorted class. I don’t know how to create and initialize an array of raw types. The closest way I can think is to create an array of raw types and then initialize it to object type. But then I got some trouble in my iterator, because I used string in my unit test cases and it’s saying Ljava.lang.obejct cannot be casted to Java.lang.String. I tried my best in this assignment, but I couldn’t solve the bugs for my iterators in the OtherBagUnsorted and OtherBagSorted class.
+
+Unresolved problems in my submission:
+1.	Iterators in OtherBagUnsorted and OtherBagSorted class.
+2.	Not enough unit test for my insert() method in OtherBagSorted class.
+3.	Warning in my code and Javadocs. 
+
+Questions:
+Iterators...
